@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^4.5.0",
+    "@openzeppelin/contracts": "^4.7.1",
     "axios": "^0.26.1",
     "ipfs-http-client": "^50.1.2",
     "next": "12.1.0",
